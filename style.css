@@ -1,18 +1,22 @@
 body{
     background-color: rgb(33, 125, 33);
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/birth-flower-1558461020.jpg?crop=0.861xw:1.00xh;0,0&resize=640:*);
+    background-size: cover;
 }
 .sekce{
     text-align: center;
-    
+
 }
 img.foto{
     border-radius: 50%;
-    border: 8px double black;
+    border: 8px double white;
     padding: 3px;
     margin: 20px;
 }
 h1{
     font-family: 'Permanent Marker', cursive;
+    color: black;
+    background-color: teal;
 }
 .trinity{
     display: flex;
@@ -22,6 +26,6 @@ h1{
 .jazyk,
 .skotsko{
     border-radius: 50%;
-    border: 5px solid black;
+    border: 5px solid white;
     padding: 3px;
 }
