@@ -7,4 +7,20 @@ body{
 img.foto{
     border-radius: 50%;
     border: 8px double black;
+    padding: 3px;
+    margin: 20px;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+}
+.trinity{
+    display: flex;
+    justify-content: space-around;
+}
+.berlin,
+.jazyk,
+.skotsko{
+    border-radius: 50%;
+    border: 5px solid black;
+    padding: 3px;
 }
