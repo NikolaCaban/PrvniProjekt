@@ -1,6 +1,10 @@
 body{
     background-color: rgb(33, 125, 33);
 }
-.foto{
-    
+.sekce{
+    text-align: center;
+}
+img.foto{
+    border-radius: 50%;
+    border: 8px double black;
 }
